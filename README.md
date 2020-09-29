@@ -6,7 +6,7 @@
 ## I'm a MERN Stack Developer!
 ⚡ Tech-Checklist as of now! ⚡
 
-✅ ReactJs, VueJs;
+✅ ReactJS, VueJS;
 
 
 ✅ NodeJS, Python;
