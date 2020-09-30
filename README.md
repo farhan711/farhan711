@@ -6,28 +6,28 @@
 ## I'm a MERN Stack Developer!
 ⚡ Tech-Checklist as of now! ⚡
 
-✅ ReactJS, VueJS;
+✅  ReactJS, VueJS;
 
 
-✅ NodeJS, Python;
+✅  NodeJS, Python;
 
 
-✅ ReactNative;
+✅  ReactNative;
 
 
-✅ Serverless, Microservice;
+✅  Serverless, Microservice;
 
 
-✅ Rest API, GraphQL;
+✅  Rest API, GraphQL;
 
 
-✅ My SQL, Redis, MongoDB. CouchDB, LevelDB;
+✅  My SQL, Redis, MongoDB. CouchDB, LevelDB;
 
 
-✅ Azure, GCP and AWS;
+✅  Azure, GCP and AWS;
 
 
-✅ Sharepoint(Online)
+✅  Sharepoint(Online);
 
 
 
