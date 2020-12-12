@@ -57,4 +57,4 @@ Blog- 👨‍💻 [Medium](https://medium.com/@farhan.ansari)
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=farhan711)
 
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=farhan711&count_private=true&theme=tokyonight&hide=contribs,prs)
+![farhan's github stats](https://github-readme-stats.vercel.app/api?username=farhan711&count_private=true&show_icons=true&include_all_commits=true&show_owner=true)
