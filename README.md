@@ -36,8 +36,5 @@
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@farhan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/farhan_711) [![Linkedin Badge](https://img.shields.io/badge/-Farhan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ansari-5140491037011/) [![Mail Badge](https://img.shields.io/badge/-farhan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:farhan7015@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-farhan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:farhan7015@gmail.com)
 
-<br />
-
-Blog- 👨‍💻 [Medium](https://medium.com/@farhan.ansari)
